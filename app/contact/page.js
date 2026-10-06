@@ -19,8 +19,8 @@ const details = [
   },
   {
     icon: Clock3,
-    label: "Business Hours",
-    value: site.hours,
+    label: "Phone number",
+    value: site.phonenumber,
   },
   {
     icon: MapPin,
