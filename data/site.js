@@ -26,6 +26,6 @@ export const legalLinks = [
   { href: "/refund-policy", label: "Refund Policy" },
   {
     href: "/financial-education-disclaimer",
-    label: "Financial Education Disclaimer",
+    // label: "Financial Education Disclaimer",
   },
 ];

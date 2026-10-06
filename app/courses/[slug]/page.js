@@ -43,10 +43,10 @@ export default function CourseDetailPage({ params }) {
             ))}
           </ul>
           <Link
-            href="/contact"
+            href="https://razorpay.me/@northlume" target="_blank"
             className="mt-10 inline-flex min-h-11 items-center rounded-full bg-accent-gradient px-6 py-2.5 text-sm font-semibold text-ink"
           >
-            Ask about this course
+            Register Now
           </Link>
         </div>
       </section>
