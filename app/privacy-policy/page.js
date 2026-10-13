@@ -272,7 +272,7 @@ export default function PrivacyPage() {
         {/* Introduction */}
         <div className="mb-8 rounded-2xl border border-white/10 bg-white/[0.03] p-6 sm:p-8">
           <p className="leading-8 text-gray-300">
-            This Privacy Policy explains how NORTHLUME ("we", "us", or "our")
+            This Privacy Policy explains how NORTHLUME we us or our
             collects, uses, shares, stores, and protects your personal
             information when you access or use our website, mobile experience,
             courses, memberships, digital resources, and related services

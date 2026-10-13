@@ -26,7 +26,7 @@ export default function HomePage() {
         description="Explore our courses and build practical skills for the modern digital world."
       />
 
-      <p>asdfas</p>
+      <p>bhai paise de de</p>
     </>
   );
 }
