@@ -276,7 +276,7 @@ export default function PrivacyPage() {
             collects, uses, shares, stores, and protects your personal
             information when you access or use our website, mobile experience,
             courses, memberships, digital resources, and related services
-            (collectively, the "Platform" or "Services").
+            collectively the Platform or Services.
           </p>
 
           <p className="mt-4 leading-8 text-gray-300">
