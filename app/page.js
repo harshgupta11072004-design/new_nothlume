@@ -25,6 +25,8 @@ export default function HomePage() {
         title="Start Your Learning Journey With Northlume"
         description="Explore our courses and build practical skills for the modern digital world."
       />
+
+      <p>asdfas</p>
     </>
   );
 }
